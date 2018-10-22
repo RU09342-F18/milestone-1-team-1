@@ -1,5 +1,5 @@
 #include <msp430.h>
-int count = 0;
+unsigned char count = 0;
 unsigned char Length = 0;
 
 extern void LEDSetup();
