@@ -7,5 +7,5 @@ with hex values to dictate the duty cycle of each color of the LED. These values
 in scale. If a packet is sent
 that holds information about more than just 1 set of colors for an LED, the micorcontroller 
 will pass the rest of the bytes on to
-a node connected to the Tx pin that is assigned to the board. 
+a node connected to the Tx pin that is assigned to the board.
 
